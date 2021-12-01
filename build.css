@@ -1,0 +1,23 @@
+@import pill;
+
+@import "pill";
+
+@import "./pill";
+
+@import pill.css;
+
+@import "./pill.css";
+
+@import "pill.css";
+
+@import _pill;
+
+@import "_pill";
+
+@import "./_pill";
+
+@import _pill.css;
+
+@import "./_pill.css";
+
+@import "_pill.css";
